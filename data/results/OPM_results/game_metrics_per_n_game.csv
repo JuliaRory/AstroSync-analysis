@@ -1,0 +1,4 @@
+total_score,game_duration,p_green_bands,aver_time,green_steps_min,band_gain_min,n_stars,points_per_star,n_hh_average,n_overkill_average,condition,n_game,subject
+1074,3.4,68.42,12.6,31.43,14.29,10,107.4,0.3,1.5,im,1,test1
+2324,7.18,92.86,28.9,15.57,11.0,10,232.4,2.4,1.2,qm,1,test1
+1183,2.57,90.91,15.5,26.45,18.71,6,197.17,0.83,0.6,qm,2,test1

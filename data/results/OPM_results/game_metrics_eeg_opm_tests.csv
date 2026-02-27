@@ -1,0 +1,6 @@
+total_score,game_duration,p_green_bands,aver_time,green_steps_min,band_gain_min,n_stars,points_per_star,n_hh_average,n_overkill_average,condition,n_game,subject,filename
+3092,9.22,96.67,26.2,19.24,13.89,15,206.13,1.27,2.07,eeg,1,test4_eeg_opm,['eeg_log_game_1']
+674,2.5,64.29,14.0,23.27,6.12,7,96.29,0.57,0.83,eeg,2,test4_eeg_opm,['eeg_log_game_80']
+-590,1.03,16.67,9.75,10.77,-38.46,4,-147.5,0.0,1.0,eeg,3,test4_eeg_opm,['eeg_log_game_95']
+630,2.68,94.44,39.33,12.2,9.15,3,210.0,1.0,1.33,opm,1,test4_eeg_opm,['opm_log_game_1']
+4832,8.63,98.33,17.0,30.53,26.47,20,241.6,0.9,0.8,opm,2,test4_eeg_opm,['opm_log_game_2']
